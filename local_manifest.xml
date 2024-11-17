@@ -13,5 +13,4 @@
         <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="dreamltenoobz" revision="lineage-21.0" clone-depth="1" />
         <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="lineage-21" remote="github" />
         <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" revision="lineage-22.0" remote="github" />
-        <project name="LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b" path="prebuilts/clang/kernel/linux-x86/clang-r416183b" revision="lineage-20.0" remote="github" />
         </manifest>
